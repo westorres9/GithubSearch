@@ -5,7 +5,7 @@ const Home = () =>{
     return(
         <div className="home-container">
             <h1>Desafio Github API</h1>
-            <p>Bootcamp Spring React - DevSuperior</p>
+            <p>Bootcamp Spring - DevSuperior</p>
             <Link to="/search">
             <button className="btn btn-primary">Começar</button>
             </Link>
